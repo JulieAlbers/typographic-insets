@@ -93,7 +93,7 @@ main > p:first-child::first-letter {
   color: #fff;
   font-size: 5rem;
   font-style: normal;
-  padding: .4rem;
+  padding: .5rem;
   float: left;
   margin-left: -3rem;
   border-top: 3px solid #333;
