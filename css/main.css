@@ -95,6 +95,7 @@ main > p:first-child::first-letter {
   font-style: normal;
   padding: .5rem;
   float: left;
+  margin: .5rem;
   margin-left: -3rem;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
@@ -104,7 +105,7 @@ figure {
   float: right;
   width: 300px;
   margin: .5rem;
-  margin-right: -5em;
+  margin-right: -7em;
   padding-top: .2rem;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
@@ -118,7 +119,7 @@ figcaption {
 blockquote {
   float: left;
   width: 300px;
-  margin-left: -5em;
+  margin-left: -6em;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   font-size: 1.5rem;
